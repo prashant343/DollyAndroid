@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652528735086",
+    "firebase_url": "https://aidolly.firebaseio.com",
+    "project_id": "aidolly",
+    "storage_bucket": "aidolly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652528735086:android:dc8e4577fa91730b2ae77f",
+        "android_client_info": {
+          "package_name": "com.pkall.dolly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652528735086-bsece633bnqa3o3fpbbu64s38t61pia0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvFw9wZye4B7vZ4UzuGhginlm-Rx70h_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652528735086-bsece633bnqa3o3fpbbu64s38t61pia0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

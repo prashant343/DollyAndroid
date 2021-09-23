@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AI Dolly</string>
+    <string name="action_settings">Mute dolly</string>
+    <string name="action_settings1">Un Mute dolly</string>
+    <string name="action_settings2">Choose Your Avatar</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+
+    <string name="title_activity_splash">AI Dolly - A friend to Humans</string>
+    <string name="dummy_button"></string>
+    <string name="dummy_content">AI-Dolly</string>
+    <string name="button_ok" translatable="false">Predict</string>
+    <string name="title_activity_landing">LandingActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+
+    <string name="voiceui">Voice ui</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_settings">Settings</string>
+</resources>
